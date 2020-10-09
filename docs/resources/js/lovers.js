@@ -126,5 +126,11 @@ var peopleLovePapa = [
 		name: "Visa SOP Sample",
 		description: "Providing free guide to international students.",
 		quote: "Use Papa Parse for many of side projects. Super fast and works all the time. Love it!"
+	},
+	{
+		link: "https://hourly.herokuapp.com",
+		name: "Hourly Newspaper",
+		description: "Fast and accurate news hourly.",
+		quote: "Super fast news at your finger tips"
 	}
 ];
